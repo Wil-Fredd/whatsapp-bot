@@ -1,0 +1,5 @@
+¡Hola! Soy un asistente de soporte técnico. ¿En qué puedo ayudarte?
+
+— Envíe 1 para: Configurar usuario.
+— Envíe 2 para: Otro caso de ayuda.
+— Envíe 3 para: Otro problema.
